@@ -19,8 +19,22 @@ header {
   left: 0px;
   width: 300px;
   height: 100%;
-  border-right: 2px solid cornflowerblue;
+  border-right: 4px solid deepskyblue;
 }
-main {
-  background-color: cornflowerblue;
+
+#main-doc {
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 110px;
+}
+#main-doc header {
+  text-align: left;
+  margin: 0px;
+  color: black;
+}
+section article {
+  color: #4d4e53;
+  margin: 15px;
+  font-size: 0.96em;
 }
