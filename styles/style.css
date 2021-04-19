@@ -65,6 +65,7 @@ code {
     border: none;
     z-index: 1;
     border-bottom: 2px solid;
+    overflow-y: auto;
   }
   #main-doc {
     position: relative;
